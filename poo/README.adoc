@@ -1,0 +1,53 @@
+= Nom du Projet
+Bruno Coulet <bruno.coulet@laplateforme.io>
+:toc:
+:icons: font
+:source-highlighter: rouge
+:sectnums:
+
+== Description
+Brève description de votre projet. Expliquez son objectif, les problèmes qu’il résout et ses points forts.
+
+== Fonctionnalités
+* Fonctionnalité 1
+* Fonctionnalité 2
+* Fonctionnalité 3
+
+== Installation
+
+=== Prérequis
+* [Liste des prérequis, ex : Python 3.12, Node.js 20, etc.]
+
+=== Instructions
+[source,bash]
+----
+# Cloner le dépôt
+git clone https://github.com/bruno-coulet/memo_python.git
+cd nom-du-projet
+
+# Installer les dépendances (exemple Python)
+pip install -r requirements.txt
+----
+
+== Utilisation
+[source,python]
+----
+# Exemple d'utilisation
+from mon_module import ma_fonction
+
+ma_fonction()
+----
+
+== Contribution
+Les contributions sont les bienvenues !  
+Merci de suivre ces étapes :
+
+* Forkez le dépôt
+* Créez votre branche (`git checkout -b feature/ma-nouvelle-fonctionnalité`)
+* Commitez vos changements (`git commit -m 'Ajouter une nouvelle fonctionnalité'`)
+* Pushez votre branche (`git push origin feature/ma-nouvelle-fonctionnalité`)
+* Ouvrez une Pull Request
+
+== Licence
+Indiquez la licence de votre projet, par exemple :
+
