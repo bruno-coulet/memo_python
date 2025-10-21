@@ -1,4 +1,4 @@
-= Nom du Projet
+= Memo POO
 Bruno Coulet <bruno.coulet@laplateforme.io>
 :toc:
 :icons: font
@@ -6,7 +6,8 @@ Bruno Coulet <bruno.coulet@laplateforme.io>
 :sectnums:
 
 == Description
-Brève description de votre projet. Expliquez son objectif, les problèmes qu’il résout et ses points forts.
+notes sur la programmation orientée objet avec python.
+Le présent fichier est un brouillon qui récapitule les possibilité en asciidoc
 
 == Fonctionnalités
 * Fonctionnalité 1
@@ -16,7 +17,7 @@ Brève description de votre projet. Expliquez son objectif, les problèmes qu’
 == Installation
 
 === Prérequis
-* [Liste des prérequis, ex : Python 3.12, Node.js 20, etc.]
+* [Python 3]
 
 === Instructions
 [source,bash]
@@ -48,6 +49,5 @@ Merci de suivre ces étapes :
 * Pushez votre branche (`git push origin feature/ma-nouvelle-fonctionnalité`)
 * Ouvrez une Pull Request
 
-== Licence
-Indiquez la licence de votre projet, par exemple :
+
 
