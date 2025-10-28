@@ -8,6 +8,7 @@ Bruno Coulet <bruno.coulet@laplateforme.io>
 == Description
 notes sur la programmation orientée objet avec python.
 Le présent fichier est un brouillon qui récapitule les possibilité en asciidoc
+Consultez le notebook poo.ipynb
 
 == Fonctionnalités
 * Fonctionnalité 1
